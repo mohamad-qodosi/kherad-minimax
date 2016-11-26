@@ -1,2 +1,2 @@
 # kherad-minimax
-header for minimax algorithem in board game AI
+header for minimax algorithm in board game AI
